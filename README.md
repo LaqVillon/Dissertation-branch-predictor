@@ -2,6 +2,10 @@
 
 Code and algorithms used in my Master's Thesis.
 
+## Versions and technologies:
+  - C++14
+  - Python 3.9.4  
+
 ## Datasets:
 
   - The "Dataset_pc_decimal" folder provides the 6 datasets used in this work. 
