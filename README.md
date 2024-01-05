@@ -45,3 +45,7 @@ Code and algorithms used in my Master's Thesis. You can found the text here http
       ------ Size of each input: 348 -----
     ```
   - The  "Specialized-preditors" directory collets the results of the specialized predictor for each dataset. Execute the python scripts to print the corresponding bar plots.
+
+## License
+
+[MIT License](LICENSE)
