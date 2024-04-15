@@ -1,8 +1,8 @@
 # Conditional Branch Predictor Based on Weightless Neural Networks
 
-Code and algorithms used in my Master's Thesis. You can found the text here https://www.pesc.coppe.ufrj.br/index.php/en/publicacoes-pesquisa/details/20/3137
+Code and algorithms used in my Master's Thesis. You can found the final text here https://www.pesc.coppe.ufrj.br/index.php/en/publicacoes-pesquisa/details/20/3137
 
-## Necessary technologies:
+## Requirements:
   - C++14
   - Python 3.9.4  
 
