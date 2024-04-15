@@ -24,7 +24,7 @@ Code and algorithms used in my Master's Thesis. You can found the final text her
     where:
       - [name of dataset]: is the full name of one of the files located in the "Dataset_pc_decimal" folder
       - [n]: is the size of the n-tuple
-      - [a], [b], [c], [d0], [d1], [d2], [d3], [d4], [e]: are the parameters discussed in the dissertation
+      - [a], [b], [c], [d0], [d1], [d2], [d3], [d4], [e]: are the parameters discussed in final text of the dissertation
   
     For example, after compiling, execute:
     ```
