@@ -48,9 +48,9 @@ Code and algorithms used in my Master's Thesis. You can found the final text her
 
 ## Articles
 
-Part of this work was done in colaboartion with reasearches from other institutions. Our effort was recognized in two publications: 
-- [Neurocomputing]
-- [ESANN]
+Some of this work was done in collaboration with researchers from other institutions. Our efforts have been recognized in two publications:
+- [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231223007609)
+- [ESANN](https://www.esann.org/proceedings/2022)
 
 ## License
 
