@@ -17,7 +17,7 @@ Code and algorithms used in my Master's Thesis. You can found the final text her
     ```
     $ sh compiler.sh
     ```
-  - Then, execute in tterminal using command line arguments:
+  - Then, run in tterminal using command line arguments:
     ```
     $ ./bpu-wisard Dataset_pc_decimal/[name of dataset] [n] [a] [b] [c] [d0] [d1] [d2] [d3] [d4] [e]
     ```
@@ -26,7 +26,7 @@ Code and algorithms used in my Master's Thesis. You can found the final text her
       - [n]: is the size of the n-tuple
       - [a], [b], [c], [d0], [d1], [d2], [d3], [d4], [e]: are the parameters discussed in final text of the dissertation
   
-    For example, after compiling, execute:
+    For example, after compiling, run:
     ```
     $ ./bpu-wisard Dataset_pc_decimal/M1.txt 32 2 2 2 2 2 3 4 1 1
     ```
@@ -44,7 +44,7 @@ Code and algorithms used in my Master's Thesis. You can found the final text her
 
       ------ Size of each input: 348 -----
     ```
-  - The  "Specialized-preditors" directory collets the results of the specialized predictor for each dataset. Execute the python scripts to print the corresponding bar plots.
+  - The  "Specialized-preditors" directory collets the results of the specialized predictor for each dataset. Run the python scripts to print the corresponding bar plots.
 
 ## Important insights
 
