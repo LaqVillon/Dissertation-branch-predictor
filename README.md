@@ -46,6 +46,11 @@ Code and algorithms used in my Master's Thesis. You can found the final text her
     ```
   - The  "Specialized-preditors" directory collets the results of the specialized predictor for each dataset. Execute the python scripts to print the corresponding bar plots.
 
+## Important insights
+
+- Increase the accuracy of deployed machine learning technology by more than 2% compared to state-of-the-art.
+- Reduce the input size of the algorithm by 31% compared to traditional methods based on traditional neural networks.
+
 ## Articles
 
 Some of this work was done in collaboration with researchers from other institutions. Our efforts have been recognized in two publications:
