@@ -46,6 +46,12 @@ Code and algorithms used in my Master's Thesis. You can found the final text her
     ```
   - The  "Specialized-preditors" directory collets the results of the specialized predictor for each dataset. Execute the python scripts to print the corresponding bar plots.
 
+## Articles
+
+Part of this work was done in colaboartion with reasearches from other institutions. Our effort was recognized in two publications: 
+- [Neurocomputing]
+- [ESANN]
+
 ## License
 
 [MIT License](LICENSE)
