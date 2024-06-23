@@ -1,6 +1,6 @@
 # Conditional Branch Predictor Based on Weightless Neural Networks
 
-Code and algorithms used in my Master's main project in 2020-2023. You can found the final text here https://www.pesc.coppe.ufrj.br/index.php/en/publicacoes-pesquisa/details/20/3137
+Code and algorithms used in my Master's main project in 2020-2023. You can found the final text [here] (https://www.pesc.coppe.ufrj.br/index.php/en/publicacoes-pesquisa/details/20/3137)
 
 ## Requirements:
   - C++14
