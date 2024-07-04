@@ -13,7 +13,7 @@ Code and algorithms used in my Master's main project in 2020-2023. You can find 
 
 ## In order to run experiments:
 
-  - In terminal make the apropriate compilation:
+  - In linux terminal (ubuntu) make the apropriate compilation:
     ```
     $ sh compiler.sh
     ```
